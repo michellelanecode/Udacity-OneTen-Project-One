@@ -1,0 +1,6 @@
+.animal__image {
+	max-width: 300px;
+	object-fit: contain;
+	align-self: center;
+	border: .5px solid rgb(201, 197, 197);
+}

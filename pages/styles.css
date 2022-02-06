@@ -1,0 +1,9 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/animal/__fact/animal__fact.css);
+@import url(../blocks/animal/__facts/animal__facts.css);
+@import url(../blocks/animal/__fun-fact/animal__fun-fact.css);
+@import url(../blocks/animal/__image/animal__image.css);
+@import url(../blocks/animal/__information/animal__information.css);
+@import url(../blocks/animal/__picture/animal__picture.css);
